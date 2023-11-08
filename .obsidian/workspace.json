@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "3c1b1a0d5487e067",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2cc795d4e0e2876",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd3145aca0d8e669",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "73398316d3a09886",
+    "type": "split",
+    "children": [
+      {
+        "id": "1139273839eb4c18",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "adf84b72a11f8aaa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ff60d9d1f25a9043",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fe6aca0d8e0a1eae",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "eb0d1b985cd87df5",
+    "type": "split",
+    "children": [
+      {
+        "id": "d01aeeb74d8d083f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "31540474b62b2252",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fed24cfcab673209",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5f4bdb499c7fed03",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "63d2f185722710b8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "fd3145aca0d8e669",
+  "lastOpenFiles": [
+    "docs/Math/README.md",
+    "docs/_404.md",
+    "docs/_coverpage.md",
+    "docs/_navbar.md",
+    "docs/_sidebar.md",
+    "docs/_media/brave_kun.png",
+    "docs/_media/seahipage-logo.svg",
+    "docs/_media/buy_me_coffee.jpg",
+    "docs/README.md",
+    "docs/Math/katex.md",
+    "docs/Math",
+    "docs/新建文件夹",
+    "docs/assets/css/custom.css",
+    "docs/assets/css",
+    "docs/assets",
+    "docs/LICENSE.md",
+    "docs/katex.md",
+    "docs/template-docsify-main/assets/css/custom.css",
+    "docs/template-docsify-main/assets/css",
+    "docs/template-docsify-main/_sidebar.md",
+    "docs/template-docsify-main/_navbar.md",
+    "docs/template-docsify-main/_404.md",
+    "docs/template-docsify-main/LICENSE.md",
+    "docs/template-docsify-main/README.md",
+    "docs/template-docsify-main/katex.md",
+    "docs/template-docsify-main/assets",
+    "docs/template-docsify-main/index.html",
+    "docs/template-docsify-main",
+    "2023-11-08.md",
+    "未命名.canvas"
+  ]
+}
