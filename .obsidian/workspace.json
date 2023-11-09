@@ -133,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,7 +145,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "adf84b72a11f8aaa",
+  "active": "fd3145aca0d8e669",
   "lastOpenFiles": [
     "_navbar.md",
     "LICENSE.md",
