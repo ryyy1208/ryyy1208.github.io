@@ -8,15 +8,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fd3145aca0d8e669",
+            "id": "4eecab6f9a611362",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "CNAME.md"
               }
             }
           }
@@ -145,13 +139,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "fd3145aca0d8e669",
+  "active": "adf84b72a11f8aaa",
   "lastOpenFiles": [
+    "CNAME",
+    "CNAME.md",
+    "README.md",
+    "未命名",
     "LICENSE.md",
     "_sidebar.md",
     "_coverpage.md",
     "_navbar.md",
-    "README.md",
     "_404.md",
     "docs/Math/README.md",
     "docs/_404.md",
@@ -180,7 +177,6 @@
     "docs/template-docsify-main/katex.md",
     "docs/template-docsify-main/assets",
     "docs/template-docsify-main/index.html",
-    "docs/template-docsify-main",
     "2023-11-08.md",
     "未命名.canvas"
   ]
