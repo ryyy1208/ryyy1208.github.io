@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LICENSE.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LICENSE.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LICENSE.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LICENSE.md"
+                "file": "README.md"
               }
             }
           }
@@ -147,12 +147,12 @@
   },
   "active": "fd3145aca0d8e669",
   "lastOpenFiles": [
-    "README.md",
     "LICENSE.md",
     "_sidebar.md",
     "_coverpage.md",
-    "_404.md",
     "_navbar.md",
+    "README.md",
+    "_404.md",
     "docs/Math/README.md",
     "docs/_404.md",
     "docs/_coverpage.md",
