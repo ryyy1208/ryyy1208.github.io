@@ -11,11 +11,33 @@
             "id": "4eecab6f9a611362",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "未命名.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "未命名"
+            }
+          },
+          {
+            "id": "409a8c397cc01fa9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -35,7 +57,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
             }
           },
           {
@@ -50,7 +74,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
             }
           },
           {
@@ -58,7 +84,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
             }
           }
         ]
@@ -88,7 +116,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
             }
           },
           {
@@ -99,7 +129,9 @@
               "state": {
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "出链"
             }
           },
           {
@@ -110,7 +142,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
             }
           },
           {
@@ -118,7 +152,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {},
+              "icon": "lucide-list",
+              "title": "大纲"
             }
           }
         ]
@@ -137,17 +173,21 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "adf84b72a11f8aaa",
+  "active": "409a8c397cc01fa9",
   "lastOpenFiles": [
-    "CNAME",
-    "CNAME.md",
+    "Math/katex.md",
+    "未命名.canvas",
+    "_404.md",
+    "Demo/README.md",
+    "Demo/demo.md",
     "README.md",
-    "未命名",
     "LICENSE.md",
     "_sidebar.md",
     "_coverpage.md",
+    "CNAME",
+    "CNAME.md",
+    "未命名",
     "_navbar.md",
-    "_404.md",
     "docs/Math/README.md",
     "docs/_404.md",
     "docs/_coverpage.md",
@@ -174,8 +214,6 @@
     "docs/template-docsify-main/README.md",
     "docs/template-docsify-main/katex.md",
     "docs/template-docsify-main/assets",
-    "docs/template-docsify-main/index.html",
-    "2023-11-08.md",
-    "未命名.canvas"
+    "2023-11-08.md"
   ]
 }
