@@ -4,40 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "b2cc795d4e0e2876",
+        "id": "d41f2fdf034d11dc",
         "type": "tabs",
         "children": [
           {
-            "id": "4eecab6f9a611362",
+            "id": "6f3a2a460f9d28a8",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "未命名.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "未命名"
-            }
-          },
-          {
-            "id": "409a8c397cc01fa9",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.7"
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
+              "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -127,11 +107,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2024-12-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "2024-12-11 的出链列表"
             }
           },
           {
@@ -152,9 +133,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "2024-12-11.md"
+              },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "2024-12-11 的大纲"
             }
           }
         ]
@@ -173,13 +156,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "409a8c397cc01fa9",
+  "active": "6f3a2a460f9d28a8",
   "lastOpenFiles": [
-    "Math/katex.md",
+    "2024-12-11.md",
+    "未命名 1.canvas",
     "未命名.canvas",
-    "_404.md",
     "Demo/README.md",
     "Demo/demo.md",
+    "Math/katex.md",
+    "_404.md",
     "README.md",
     "LICENSE.md",
     "_sidebar.md",
@@ -212,8 +197,6 @@
     "docs/template-docsify-main/_404.md",
     "docs/template-docsify-main/LICENSE.md",
     "docs/template-docsify-main/README.md",
-    "docs/template-docsify-main/katex.md",
-    "docs/template-docsify-main/assets",
-    "2023-11-08.md"
+    "docs/template-docsify-main/assets"
   ]
 }
