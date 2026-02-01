@@ -47,8 +47,6 @@
   "enabled_templates_hotkeys": [
     ""
   ],
-  "startup_templates": [
-    "90_Config/tpl/00_master_tpl.md"
-  ],
+  "startup_templates": [],
   "intellisense_render": 1
 }

@@ -70,6 +70,8 @@ wsl --import Ubuntu-24.04 D:\WSL\Ubuntu D:\Repo\Images\ubuntu-24.04-server-cloud
 
 ### 3️⃣ 第三步：初始化账户 (必做)
 
+^a1a35d
+
 原生镜像默认是 Root 用户，我们需要设置你的个人账户。
 
 1. **启动系统**：

@@ -6,5 +6,6 @@
   "obsidian-excalidraw-plugin",
   "homepage",
   "obsidian-style-settings",
-  "quickadd"
+  "quickadd",
+  "obsidian-git"
 ]

@@ -25,7 +25,7 @@ Kali 官方提供了专门给 WSL 用的精简版层级包。
     
     _(如果链接失效，请去  [kali.download/wsl-images](https://kali.download/wsl-images) 找最新的 wsl-rootfs)_
     
-- **保存位置**：`D:\Repo\Images`
+- **保存位置**：`D:\Repo\ISO
     
 #### 2. 导入系统 (PowerShell 管理员)
 ```PowerShell
@@ -42,7 +42,7 @@ wsl --import Kali D:\WSL\Kali D:\Repo\Images\kali-linux-2024.4-wsl-amd64.rootfs.
     wsl -d Kali
     ```
     
-    ==(和 Ubuntu 一样，建议先按之前的步骤 adduser 创建个普通用户)==
+    ==(和 Ubuntu 一样，建议先按之前的步骤 adduser 创建个普通用户)==[[WSL配置#^a1a35d]]
     
 2. **安装标准工具包 (Top 10 工具 + 常用工具)**：
 
