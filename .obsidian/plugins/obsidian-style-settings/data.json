@@ -1,0 +1,17 @@
+{
+  "Blue-Topaz-Codebox-Highlight@@code-theme-selection": "code-theme-bt-default",
+  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-simplicity-topaz",
+  "blue-topaz-theme@@simple-p-kanban": false,
+  "Blue-Topaz-Codebox-Highlight@@code-line-number": true,
+  "blue-topaz-theme@@disable-auto-hide-header": true,
+  "blue-topaz-theme@@toggle-bg-panel-page": false,
+  "blue-topaz-theme@@bg-panel-page-option": "panel-page-bg-theme-light-wall",
+  "blue-topaz-theme@@bt-status-on": false,
+  "blue-topaz-theme@@scrollbar-style-option": "default-scrollbar",
+  "blue-topaz-theme@@layout-style-options": "layout-style-options-default",
+  "blue-topaz-theme@@folder-style-change-options-colorful-subfolder": "folder-colorful-six",
+  "blue-topaz-theme@@bt-toggle-colorful-folder": true,
+  "blue-topaz-theme@@folder-note-underline": false,
+  "blue-topaz-theme@@folder-note-dot": true,
+  "blue-topaz-theme@@remove-arrow": true
+}
