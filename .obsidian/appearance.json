@@ -3,7 +3,7 @@
   "interfaceFontFamily": "JetBrainsLxgwNerdMono",
   "textFontFamily": "JetBrainsLxgwNerdMono",
   "monospaceFontFamily": "JetBrainsLxgwNerdMono",
-  "baseFontSize": 20,
+  "baseFontSize": 16,
   "baseFontSizeAction": true,
   "accentColor": "#2f5de4",
   "nativeMenus": false

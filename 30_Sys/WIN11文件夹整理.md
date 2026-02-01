@@ -21,7 +21,7 @@ Plaintext
 ```
 D:\ (或者你的根目录)
 ├── Program          (软件安装目录)
-│   ├── _Portable     (日常便携软件，加下划线置顶)
+│   ├── _Portable    (日常便携软件，加下划线置顶)
 ├── 
 ├── CyberSec         (网络安全基地)
 │   ├── Code
@@ -29,7 +29,7 @@ D:\ (或者你的根目录)
 │   ├── Docs
 │   ├── Labs
 │   └── Tools
-├── Repo         (保存ISO镜像和软件安装包)
+├── Repo             (保存ISO镜像和软件安装包)
 │   ├── ISO
 └── Envs             (或者 SDKs，存放 Python/JDK 等语言环境)
     ├── Java
