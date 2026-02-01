@@ -1,8 +1,8 @@
 {
   "cssTheme": "Blue Topaz",
-  "interfaceFontFamily": "思源等宽",
-  "textFontFamily": "思源等宽",
-  "monospaceFontFamily": "思源等宽",
+  "interfaceFontFamily": "JetBrainsLxgwNerdMono",
+  "textFontFamily": "JetBrainsLxgwNerdMono",
+  "monospaceFontFamily": "JetBrainsLxgwNerdMono",
   "baseFontSize": 20,
   "baseFontSizeAction": true,
   "accentColor": "#2f5de4",

@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "52a4dc7909430172",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "ad7a79474c78afc8",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "README"
             }
           }
         ]
@@ -150,12 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "README 的大纲"
             }
           },
           {
@@ -190,7 +196,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ad7a79474c78afc8",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "30_Sys/WIN11文件夹整理.md",
     "30_Sys/WSL/WSL版Kali安装.md",
