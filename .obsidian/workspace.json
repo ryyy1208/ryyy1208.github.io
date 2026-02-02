@@ -155,12 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "README 的大纲"
             }
           },
           {
@@ -195,12 +196,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "2a69b8280c6a9a9e",
   "lastOpenFiles": [
+    "10_Cyber/Crypto",
+    "10_Cyber/MISC",
+    "10_Cyber/未命名.md",
+    "README.md",
     "30_Sys/WIN11文件夹整理.md",
     "30_Sys/_media/Pasted image 20260202085925.png",
     "30_Sys/_media",
-    "README.md",
     "README-bak.md",
     "30_Sys/WSL/WSL配置.md",
     "30_Sys/WSL/WSL版Kali安装.md",
@@ -224,7 +228,6 @@
     "90_Config/tpl/tpl_40_Project_Base.md",
     "10_Cyber/SQL/未命名 1.md",
     "10_Cyber/SQL/未命名.md",
-    "你好.md",
     "10_Cyber/WEB",
     "10_Cyber/SQL",
     "Cyber-Sql",
@@ -232,7 +235,6 @@
     "40_Project",
     "30_Sys",
     "20_Dev",
-    "10_Cyber",
     "附件/Pasted image 20260201100304.png",
     "未命名.canvas",
     "未命名 1.canvas",
