@@ -11,5 +11,6 @@
   "newFileFolderPath": "00_inbox",
   "promptDelete": false,
   "livePreview": true,
-  "defaultViewMode": "source"
+  "defaultViewMode": "source",
+  "vimMode": true
 }
