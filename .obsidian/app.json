@@ -12,5 +12,5 @@
   "promptDelete": false,
   "livePreview": true,
   "defaultViewMode": "source",
-  "vimMode": true
+  "vimMode": false
 }

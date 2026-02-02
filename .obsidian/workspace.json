@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "10_Cyber/Base/编码.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "编码"
             }
           }
         ]
@@ -155,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "10_Cyber/Base/编码.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "README 的大纲"
+              "title": "编码 的大纲"
             }
           },
           {
@@ -196,12 +196,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2a69b8280c6a9a9e",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "10_Cyber/Base/未命名.md",
+    "10_Cyber/Base/编码.md",
+    "README.md",
+    "10_Cyber/Base",
     "10_Cyber/Crypto",
     "10_Cyber/MISC",
     "10_Cyber/未命名.md",
-    "README.md",
     "30_Sys/WIN11文件夹整理.md",
     "30_Sys/_media/Pasted image 20260202085925.png",
     "30_Sys/_media",
@@ -227,14 +230,11 @@
     "90_Config/tpl/tpl_30_Sys_Base.md",
     "90_Config/tpl/tpl_40_Project_Base.md",
     "10_Cyber/SQL/未命名 1.md",
-    "10_Cyber/SQL/未命名.md",
     "10_Cyber/WEB",
     "10_Cyber/SQL",
     "Cyber-Sql",
     "50_Doc",
     "40_Project",
-    "30_Sys",
-    "20_Dev",
     "附件/Pasted image 20260201100304.png",
     "未命名.canvas",
     "未命名 1.canvas",
