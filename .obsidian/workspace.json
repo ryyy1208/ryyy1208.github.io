@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30_Sys/WSL/WSL 配置代理.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "WSL 配置代理"
+              "title": "README"
             }
           }
         ]
@@ -155,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "30_Sys/WSL/WSL 配置代理.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "WSL 配置代理 的大纲"
+              "title": "README 的大纲"
             }
           },
           {
@@ -198,8 +198,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "30_Sys/WSL/WSL版Kali安装.md",
     "30_Sys/WSL/WSL 配置代理.md",
+    "20_Dev/Jtebrains 软件.md",
+    "30_Sys/WSL/WSL版Kali安装.md",
     "README.md",
     "30_Sys/WSL/WSL配置.md",
     "10_Cyber/Base/编码.md",
@@ -229,7 +230,6 @@
     "10_Cyber/SQL注入部署.md",
     "10_Cyber/zzzzzzz.md",
     "90_Config/tpl/tpl_30_Sys_Base.md",
-    "90_Config/tpl/tpl_40_Project_Base.md",
     "10_Cyber/WEB",
     "10_Cyber/SQL",
     "Cyber-Sql",
