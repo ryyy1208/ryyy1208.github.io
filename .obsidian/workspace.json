@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "30_Sys/Python 环境.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Python 环境"
             }
           }
         ]
@@ -155,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "30_Sys/Python 环境.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "README 的大纲"
+              "title": "Python 环境 的大纲"
             }
           },
           {
@@ -198,10 +198,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "README.md",
+    "30_Sys/Python 环境.md",
     "30_Sys/WSL/WSL 配置代理.md",
     "20_Dev/Jtebrains 软件.md",
     "30_Sys/WSL/WSL版Kali安装.md",
-    "README.md",
     "30_Sys/WSL/WSL配置.md",
     "10_Cyber/Base/编码.md",
     "10_Cyber/Base/未命名.md",
@@ -229,7 +230,6 @@
     "10_Cyber/sqlzzz.md",
     "10_Cyber/SQL注入部署.md",
     "10_Cyber/zzzzzzz.md",
-    "90_Config/tpl/tpl_30_Sys_Base.md",
     "10_Cyber/WEB",
     "10_Cyber/SQL",
     "Cyber-Sql",
