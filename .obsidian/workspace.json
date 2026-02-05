@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30_Sys/Python 环境.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Python 环境"
+              "title": "README"
             }
           }
         ]
@@ -155,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "30_Sys/Python 环境.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Python 环境 的大纲"
+              "title": "README 的大纲"
             }
           },
           {
@@ -198,8 +198,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "README.md",
     "30_Sys/Python 环境.md",
+    "README.md",
     "30_Sys/WSL/WSL 配置代理.md",
     "20_Dev/Jtebrains 软件.md",
     "30_Sys/WSL/WSL版Kali安装.md",
