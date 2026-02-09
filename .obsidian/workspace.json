@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "10_Cyber/overthewire 闯关.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "overthewire 闯关"
             }
           }
         ]
@@ -155,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "10_Cyber/overthewire 闯关.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": "10808"
               },
               "icon": "lucide-list",
-              "title": "README 的大纲"
+              "title": "overthewire 闯关 的大纲"
             }
           },
           {
@@ -198,8 +198,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "30_Sys/Python 环境.md",
+    "10_Cyber/学习路线.md",
+    "10_Cyber/overthewire 闯关.md",
     "README.md",
+    "30_Sys/Python 环境.md",
     "30_Sys/WSL/WSL 配置代理.md",
     "20_Dev/Jtebrains 软件.md",
     "30_Sys/WSL/WSL版Kali安装.md",
@@ -209,7 +211,6 @@
     "10_Cyber/Base",
     "10_Cyber/Crypto",
     "10_Cyber/MISC",
-    "10_Cyber/未命名.md",
     "30_Sys/WIN11文件夹整理.md",
     "30_Sys/_media/Pasted image 20260202085925.png",
     "30_Sys/_media",
@@ -229,7 +230,6 @@
     "10_Cyber/SQL/SQL注入学习.md",
     "10_Cyber/sqlzzz.md",
     "10_Cyber/SQL注入部署.md",
-    "10_Cyber/zzzzzzz.md",
     "10_Cyber/WEB",
     "10_Cyber/SQL",
     "Cyber-Sql",
