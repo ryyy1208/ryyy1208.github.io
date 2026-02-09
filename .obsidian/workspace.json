@@ -13,16 +13,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10_Cyber/overthewire 闯关.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "overthewire 闯关"
+              "title": "README"
+            }
+          },
+          {
+            "id": "dc416067f0dfc4d9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.11.7"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -155,13 +168,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10_Cyber/overthewire 闯关.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": "10808"
               },
               "icon": "lucide-list",
-              "title": "overthewire 闯关 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -196,11 +208,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "dc416067f0dfc4d9",
   "lastOpenFiles": [
-    "10_Cyber/学习路线.md",
-    "10_Cyber/overthewire 闯关.md",
     "README.md",
+    "10_Cyber/overthewire 闯关.md",
+    "10_Cyber/学习路线.md",
     "30_Sys/Python 环境.md",
     "30_Sys/WSL/WSL 配置代理.md",
     "20_Dev/Jtebrains 软件.md",
