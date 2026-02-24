@@ -174,3 +174,10 @@ exit
 - **关键命令**: `base64 -d data.txt`
 
 ---
+
+```shell
+ssh bandit10@bandit.labs.overthewire.org -p 2220
+FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey
+```
+
+
