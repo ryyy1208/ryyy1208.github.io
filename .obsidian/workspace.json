@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_Inbox/protein_mpnn 资料.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "protein_mpnn 资料"
+              "title": "README"
             }
           }
         ]
@@ -155,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00_Inbox/protein_mpnn 资料.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "protein_mpnn 资料 的大纲"
+              "title": "README 的大纲"
             }
           },
           {
@@ -198,8 +198,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "README.md",
     "00_Inbox/protein_mpnn 资料.md",
+    "README.md",
     "30_Sys/WSL/WSL 配置代理.md",
     "10_Cyber/overthewire 闯关.md",
     "10_Cyber/学习路线.md",
