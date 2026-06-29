@@ -180,6 +180,12 @@ function build() {
       console.error(`  ❌ ${f}: ${e.message}`);
     }
   }
+  const readmeHtml = path.join(PUBLIC_DIR, 'README.html');
+  const indexHtml = path.join(PUBLIC_DIR, 'index.html');
+  if (fs.existsSync(readmeHtml) && !fs.existsSync(indexHtml)) {
+    fs.copyFileSync(readmeHtml, indexHtml);
+  }
+
   console.log(`✅ Done! Output: ${PUBLIC_DIR}`);
 }
 
