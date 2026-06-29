@@ -21,12 +21,12 @@
 
 我的知识体系基于 **PARA** 变体构建，划分为以下四个核心区域：
 
-| 📂 **Zone** | 🔍 **Description** | 🏷️ **Tags** |
-| :--- | :--- | :--- |
-| **[[10_Cyber/index|10_Cyber]]** | **红队与防御**<br>渗透测试、靶场攻略、CTF Writeups、漏洞复现。 | `#PenTest` `#Kali` `#CTF` |
-| **[[20_Dev/index|20_Dev]]** | **代码与构建**<br>Python 开发、Docker 容器化、自动化脚本。 | `#Python` `#Docker` `#Git` |
-| **[[30_Sys/index|30_Sys]]** | **系统与基建**<br>Linux 运维、WSL 配置、网络协议分析。 | `#Linux` `#WSL` `#Net` |
-| **[[40_Project/index|40_Project]]** | **孵化实验室**<br>长期项目追踪与技术文档。 | `#DeepFlow` `#Lab` |
+| 📂 **Zone**          | 🔍 **Description** | 🏷️ **Tags**                              |                            |
+| :------------------- | :----------------- | :---------------------------------------- | -------------------------- |
+| **[[10_Cyber/index   | 10_Cyber]]**       | **红队与防御**<br>渗透测试、靶场攻略、CTF Writeups、漏洞复现。 | `#PenTest` `#Kali` `#CTF`  |
+| **[[20_Dev/index     | 20_Dev]]**         | **代码与构建**<br>Python 开发、Docker 容器化、自动化脚本。  | `#Python` `#Docker` `#Git` |
+| **[[30_Sys/index     | 30_Sys]]**         | **系统与基建**<br>Linux 运维、WSL 配置、网络协议分析。      | `#Linux` `#WSL` `#Net`     |
+| **[[40_Project/index | 40_Project]]**     | **孵化实验室**<br>长期项目追踪与技术文档。                 | `#DeepFlow` `#Lab`         |
 
 ---
 
