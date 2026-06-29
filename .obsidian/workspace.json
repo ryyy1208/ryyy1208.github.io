@@ -11,15 +11,10 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
+              "title": "新标签页"
             }
           }
         ]
@@ -155,13 +150,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "README 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -198,6 +192,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "00_Inbox/input.md",
     "00_Inbox/protein_mpnn 资料.md",
     "README.md",
     "30_Sys/WSL/WSL 配置代理.md",
@@ -229,7 +224,6 @@
     "20_Dev/zzz.md",
     "10_Cyber/zzz的.md",
     "10_Cyber/SQL/SQL注入学习.md",
-    "10_Cyber/sqlzzz.md",
     "10_Cyber/WEB",
     "10_Cyber/SQL",
     "Cyber-Sql",
