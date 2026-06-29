@@ -1,21 +1,13 @@
 ---
 type: index
-tags:
-  - bioai
-  - protein-design
+tags: [bioai]
 status:
-  created: 2026-06-29
+  created: 2026-06-29T12:57
 ---
-# 🟣 SECTOR 60 — BioAI
 
-> 蛋白质设计、AI 生信工具
+# 60_BioAI
 
-## 📊 最近更新
-
-```dataview
-LIST WITHOUT ID file.link
-FROM "60_BioAI"
-WHERE file.name != "index"
-SORT file.mtime desc
-LIMIT 10
-```
+| 笔记 | 最后修改 |
+|------|----------|
+| [[ProteinMPNN 参数详解]] | 2026-06-29 |
+| [[RFdiffusion3 输入参数]] | 2026-06-29 |

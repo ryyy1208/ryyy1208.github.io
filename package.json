@@ -1,0 +1,26 @@
+{
+  "name": "ryyy1208.github.io",
+  "version": "1.0.0",
+  "description": "Obsidian Vault → Static Site",
+  "main": "build/build.js",
+  "scripts": {
+    "build": "node build/build.js",
+    "watch": "node build/watch.js",
+    "dev": "node build/build.js && node build/watch.js"
+  },
+  "scriptscomments": {
+    "build": "Generate index.md + convert all MD to HTML",
+    "watch": "Watch for file changes and auto-rebuild",
+    "dev": "Build once then watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "chokidar": "^5.0.0",
+    "gray-matter": "^4.0.3",
+    "highlight.js": "^11.11.1",
+    "markdown-it": "^14.2.0"
+  }
+}

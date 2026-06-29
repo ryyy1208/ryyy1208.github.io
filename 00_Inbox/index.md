@@ -1,12 +1,11 @@
 ---
 type: index
-tags: [dev]
+tags: [inbox]
 status:
   created: 2026-06-29T12:57
 ---
 
-# 20_Dev
+# 00_Inbox
 
 | 笔记 | 最后修改 |
 |------|----------|
-| [[Jtebrains 软件激活]] | 2026-02-04 |

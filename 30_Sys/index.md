@@ -1,26 +1,16 @@
 ---
 type: index
-tags:
-  - sysadmin
+tags: [sys]
 status:
-  created: 2026-06-29
+  created: 2026-06-29T12:57
 ---
-# 🟡 SECTOR 30 — System
 
-> 系统：Linux 指令, Windows 配置
+# 30_Sys
 
-## 📂 分区结构
-
-| 子目录 | 内容 |
-|--------|------|
-| `WSL/` | WSL 配置与使用 |
-
-## 📊 最近更新
-
-```dataview
-LIST WITHOUT ID file.link
-FROM "30_Sys"
-WHERE file.name != "index"
-SORT file.mtime desc
-LIMIT 10
-```
+| 笔记 | 最后修改 |
+|------|----------|
+| [[WSL 配置代理]] | 2026-02-05 |
+| [[Python 环境]] | 2026-02-04 |
+| [[WIN11文件夹整理]] | 2026-02-02 |
+| [[WSL版Kali安装]] | 2026-02-01 |
+| [[WSL配置]] | 2026-02-01 |
