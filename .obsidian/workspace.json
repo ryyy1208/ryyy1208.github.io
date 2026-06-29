@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "1fb38283105b679b",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "2e7b40b261194770",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "20_Dev/Jtebrains 软件激活.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "Jtebrains 软件激活"
             }
           }
         ]
@@ -150,12 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "20_Dev/Jtebrains 软件激活.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "Jtebrains 软件激活 的大纲"
             }
           },
           {
@@ -190,11 +196,38 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "2e7b40b261194770",
   "lastOpenFiles": [
+    "public/README-bak.html",
+    "public/90_Config/tpl/tpl_40_Project_Base.html",
+    "public/90_Config/tpl/tpl_30_Sys_Base.html",
+    "public/90_Config/tpl/tpl_20_Dev_Base.html",
+    "public/90_Config/tpl/tpl_10_Cyber_Base.html",
+    "public/90_Config/tpl/00_master_tpl.html",
+    "public/90_Config/tpl",
+    "public/90_Config/index.html",
+    "public/90_Config",
+    "public/60_BioAI/RFdiffusion3 输入参数.html",
+    "public/60_BioAI/ProteinMPNN 参数详解.html",
+    "90_Config/index.md",
+    "40_Project/index.md",
+    "00_Inbox/index.md",
+    "node_modules/linkify-it/README.md",
+    "node_modules/highlight.js/styles/pojoaque.jpg",
+    "node_modules/gray-matter/README.md",
+    "node_modules/gray-matter/CHANGELOG.md",
+    "node_modules/kind-of/README.md",
+    "node_modules/argparse/README.md",
+    "node_modules/strip-bom-string/README.md",
+    "node_modules/section-matter/README.md",
+    "node_modules/extend-shallow/README.md",
+    "node_modules/is-extendable/README.md",
+    "node_modules/chokidar/README.md",
+    "20_Dev/index.md",
+    "README.md",
+    "10_Cyber/Base/编码.md",
     "10_Cyber/Base/exploitarium-main/7zip-rar5-motw-chain-poc/README.md",
     "30_Sys/WSL/WSL 配置代理.md",
-    "README.md",
     "00_Inbox/input.md",
     "00_Inbox/protein_mpnn 资料.md",
     "10_Cyber/overthewire 闯关.md",
@@ -202,33 +235,7 @@
     "30_Sys/Python 环境.md",
     "20_Dev/Jtebrains 软件.md",
     "30_Sys/WSL/WSL版Kali安装.md",
-    "30_Sys/WSL/WSL配置.md",
-    "10_Cyber/Base/编码.md",
-    "10_Cyber/Base/未命名.md",
-    "10_Cyber/Base",
-    "10_Cyber/Crypto",
-    "10_Cyber/MISC",
-    "30_Sys/WIN11文件夹整理.md",
     "30_Sys/_media/Pasted image 20260202085925.png",
-    "30_Sys/_media",
-    "README-bak.md",
-    "30_Sys/WSL/^^初始化账户.md",
-    "30_Sys/WSL",
-    "20_Dev/你好.md",
-    "90_Config/tpl/00_master_tpl.md",
-    "未命名.md",
-    "10_Cyber/三枪靓靓靓.md",
-    "90_Config/tpl/tpl_10_Cyber_Base.md",
-    "10_Cyber/sql啊a.md",
-    "10_Cyber/sql注入.md",
-    "90_Config/tpl/tpl_20_Dev_Base.md",
-    "20_Dev/zzz.md",
-    "10_Cyber/zzz的.md",
-    "10_Cyber/WEB",
-    "10_Cyber/SQL",
-    "Cyber-Sql",
-    "50_Doc",
-    "40_Project",
     "附件/Pasted image 20260201100304.png",
     "未命名.canvas",
     "未命名 1.canvas",
