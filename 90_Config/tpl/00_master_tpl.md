@@ -8,7 +8,8 @@ const CONFIG = {
     CYBER:   { folder: "10_Cyber",   template: "tpl_10_Cyber_Base" },
     DEV:     { folder: "20_Dev",     template: "tpl_20_Dev_Base" },
     SYS:     { folder: "30_Sys",     template: "tpl_30_Sys_Base" },
-    PROJECT: { folder: "40_Project", template: "tpl_40_Project_Base" }
+    PROJECT: { folder: "40_Project", template: "tpl_40_Project_Base" },
+    BIOAI:   { folder: "60_BioAI",   template: null }
 };
 
 // 1. 获取当前状态
@@ -55,6 +56,10 @@ switch (trigger) {
     case "proj": case "lab": case "deepflow":
         targetConfig = CONFIG.PROJECT;
         break;
+    // [生物AI]
+    case "bio": case "bioai": case "protein": case "rf": case "mpnn":
+        targetConfig = CONFIG.BIOAI;
+        break;
     // [无前缀]
     default:
         // 如果没前缀，先看看是不是已经在正确的文件夹里了？
@@ -73,6 +78,7 @@ if (!targetConfig) {
         { label: "🔵 Dev (开发)",     config: CONFIG.DEV },
         { label: "🟡 Sys (系统)",     config: CONFIG.SYS },
         { label: "🟢 Project (项目)", config: CONFIG.PROJECT },
+        { label: "🟣 BioAI (生物AI)", config: CONFIG.BIOAI },
         { label: "⚪ Empty (仅创建)",  config: null }
     ];
     

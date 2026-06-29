@@ -1,4 +1,15 @@
-以下是严格按照你提供的代码顺序，对每一个参数的详细解析。这些信息直接基于你提供的脚本代码 `protein_mpnn_run.py`。
+---
+type: bioai
+tags:
+  - protein-design
+  - ProteinMPNN
+  - AI
+status:
+  created: 2026-06-29 20:48
+---
+# ProteinMPNN 参数详解
+
+> 以下是严格按照你提供的代码顺序，对每一个参数的详细解析。这些信息直接基于你提供的脚本代码 `protein_mpnn_run.py`。
 
 ### 1. 基础打印与模式控制
 

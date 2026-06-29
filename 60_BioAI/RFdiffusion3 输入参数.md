@@ -1,3 +1,12 @@
+---
+type: bioai
+tags:
+  - protein-design
+  - RFdiffusion
+  - AI
+status:
+  created: 2026-06-29 20:48
+---
 # RFdiffusion3 — Input Specification & Command-line arguments
 
 RFdiffusion3 accepts inputs in two forms: 

@@ -35,6 +35,8 @@ D:\Docs\
 ├── 20_Dev        (开发：Python, Go, Docker 笔记)
 ├── 30_Sys        (系统：Linux 指令, Windows 配置)
 ├── 40_Project    (项目：正在进行的 DeepFlow 等项目日志)
+├── 60_BioAI      (生物AI：蛋白质设计、RFdiffusion、ProteinMPNN)
+├── 90_Config     (配置：模板、主题)
 └── 99_Archive    (归档：学完的教程)
 ```
 
@@ -49,6 +51,7 @@ const cyber = pages.filter(p => p.file.folder.startsWith("10_Cyber")).length;
 const dev = pages.filter(p => p.file.folder.startsWith("20_Dev")).length;
 const sys = pages.filter(p => p.file.folder.startsWith("30_Sys")).length;
 const proj = pages.filter(p => p.file.folder.startsWith("40_Project")).length;
+const bioai = pages.filter(p => p.file.folder.startsWith("60_BioAI")).length;
 
 // 定义最大容量用于计算百分比 (假定目标是每个区50篇，可修改)
 const max = 50; 
@@ -68,6 +71,7 @@ dv.paragraph(`
 | **[[20_Dev/index|🔵 SECTOR 20 (DEV)]]** | **${dev}** | ${progressBar(dev, max)} |
 | **[[30_Sys/index|🟡 SECTOR 30 (SYS)]]** | **${sys}** | ${progressBar(sys, max)} |
 | **[[40_Project/index|🟢 SECTOR 40 (LABS)]]** | **${proj}** | ${progressBar(proj, max)} |
+| **[[60_BioAI/index|🟣 SECTOR 60 (BIOAI)]]** | **${bioai}** | ${progressBar(bioai, max)} |
 `)
 
 ```
@@ -151,6 +155,28 @@ dv.paragraph(`
 > 
 > 
 > `git commit -m "feat: new module"`
+
+</div>
+
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
+
+<div style="flex: 1; min-width: 300px;">
+
+> [!TIP] [[60_BioAI/index|🟣 BIOAI LAB]]
+> **蛋白质设计与AI生信**
+> ```dataview
+> LIST WITHOUT ID file.link
+> FROM "60_BioAI"
+> WHERE file.name != "index"
+> SORT file.mtime desc
+> LIMIT 5
+> 
+> ```
+> 
+> 
+> `python inference.py --config config.yaml`
 
 </div>
 
