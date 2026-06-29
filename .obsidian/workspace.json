@@ -198,6 +198,8 @@
   },
   "active": "2e7b40b261194770",
   "lastOpenFiles": [
+    "deploy.bat",
+    "public/index.html",
     "public/README-bak.html",
     "public/90_Config/tpl/tpl_40_Project_Base.html",
     "public/90_Config/tpl/tpl_30_Sys_Base.html",
@@ -207,8 +209,6 @@
     "public/90_Config/tpl",
     "public/90_Config/index.html",
     "public/90_Config",
-    "public/60_BioAI/RFdiffusion3 输入参数.html",
-    "public/60_BioAI/ProteinMPNN 参数详解.html",
     "90_Config/index.md",
     "40_Project/index.md",
     "00_Inbox/index.md",
