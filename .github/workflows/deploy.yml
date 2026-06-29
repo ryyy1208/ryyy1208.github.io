@@ -19,6 +19,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - uses: actions/setup-node@v4
         with:
@@ -29,6 +31,11 @@ jobs:
       - name: Install dependencies
         run: npm ci
         working-directory: quartz
+
+      - name: Copy content
+        run: |
+          cp -r 10_Cyber 20_Dev 30_Sys 60_BioAI quartz/content/
+          cp README.md quartz/content/index.md
 
       - name: Build Quartz
         run: npx quartz build
