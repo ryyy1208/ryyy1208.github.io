@@ -22,15 +22,21 @@ jobs:
 
       - uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: 22
           cache: npm
+          cache-dependency-path: quartz/package-lock.json
 
-      - run: npm ci
-      - run: npm run build
+      - name: Install dependencies
+        run: npm ci
+        working-directory: quartz
+
+      - name: Build Quartz
+        run: npx quartz build
+        working-directory: quartz
 
       - uses: actions/upload-pages-artifact@v3
         with:
-          path: public
+          path: quartz/public
 
   deploy:
     environment:
