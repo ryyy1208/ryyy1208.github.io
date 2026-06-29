@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "1fb38283105b679b",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "2e7b40b261194770",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "README"
             }
           }
         ]
@@ -150,12 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "README 的大纲"
             }
           },
           {
@@ -190,8 +196,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2e7b40b261194770",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "10_Cyber/Base/exploitarium-main/c-ares-tcp-uaf-calc-poc/README.md",
+    "10_Cyber/Base/exploitarium-main/7zip-rar5-motw-chain-poc/README.md",
+    "10_Cyber/overthewire 闯关.md",
+    "10_Cyber/学习路线.md",
     "quartz/content/10_Cyber/Base/EXPLOI~1/GHIDRA~1.2-R/docs/classification.md",
     "quartz/content/10_Cyber/Base/EXPLOI~1/GHIDRA~1.2-R/docs",
     "quartz/content/10_Cyber/Base/EXPLOI~1/FLOWIS~1/README.md",
@@ -226,10 +236,6 @@
     "quartz/content/10_Cyber/10_Cyber/Base/exploitarium-main/lunar-modrinth-chain-poc/README.md",
     "quartz/content/10_Cyber/10_Cyber/Base/exploitarium-main/libssh2-publickey-list-calc-poc/README.md",
     "quartz/content/10_Cyber/10_Cyber/Base/exploitarium-main/vlc-vp9-reschange-crash-poc/README.md",
-    "quartz/content/10_Cyber/10_Cyber/Base/exploitarium-main/systeminformer-phsvc-trusted-host-lpe-poc/README.md",
-    "quartz/content/10_Cyber/10_Cyber/Base/exploitarium-main/php857-streambucket-soap-rce-rpoc/README.md",
-    "quartz/content/10_Cyber/10_Cyber/Base/exploitarium-main/objdump-dlx-calc-poc/docs/aslr-bypass-analysis.md",
-    "quartz/content/10_Cyber/10_Cyber/Base/exploitarium-main/objdump-dlx-calc-poc/README.md",
     "quartz/node_modules/js-binary-schema-parser/example/horses.gif",
     "quartz/node_modules/js-binary-schema-parser/example/dog.gif",
     "quartz/node_modules/js-binary-schema-parser/example/box.gif",

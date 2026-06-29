@@ -36,7 +36,7 @@ jobs:
       - name: Copy content
         run: |
           cp -r 10_Cyber 20_Dev 30_Sys 60_BioAI quartz/content/
-          cp README.md quartz/content/index.md
+          cp index.md quartz/content/
 
       - name: Build Quartz
         run: npx quartz build
